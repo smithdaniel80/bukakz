@@ -1,0 +1,1 @@
+<h1> AI Builders Digest 今日热点快报</h1><br><p><strong>2026年08月14日 14时14分28秒(UTC+8)</strong></p><br><hr><br><h2>一、国内时政</h2><br><h3>龙芯 AI 加速模块发布，适配国产 CPU，构建自主 AI 算力生态。</h3><br><p>龙芯 3A6000 处理器性能提升，国产 CPU 市占率提升，信创采购放量。<br>
